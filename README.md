@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielOram
-- 👀 I’m interested in Education and Mathematics
+- 👀 I’m interested in Software development and project management
 - 🌱 I’m currently learning Django web framework and React.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me -> danieloramnz@gmail.com
